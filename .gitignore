@@ -1,0 +1,12 @@
+java.io.DeleteOnExitHook$1.class
+com.sun.jmx.remote.internal.ServerCommunicatorAdmin$Timeout.class
+java.awt.EventDispatchThread.class
+java.awt.Toolkit$DesktopPropertyChangeSupport$1.class
+*.class
+.checkstyle
+.classpath
+.pmd
+.project
+*.json
+*.txt
+.settings/org.eclipse.jdt.core.prefs
